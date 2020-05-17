@@ -4,7 +4,7 @@ In other words, Crud(Create, Read, Update, Delete) is performed through the rest
   
 
 * Client(8080) : https://github.com/donghak0205/board2
-* Rest-Api(8081) : https://github.com/donghak0205/rest-web
+* Rest-Api(8081) : https://github.com/donghak0205/restapi
 
 ## Information
 ### 1. Front End
