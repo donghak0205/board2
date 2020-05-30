@@ -4,7 +4,7 @@ build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**
-*/src/main/* linguist-vendored
+!**/src/main/** linguist-vendored
 
 ### STS ###
 .apt_generated
