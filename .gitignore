@@ -30,3 +30,6 @@ out/
 
 ### VS Code ###
 .vscode/
+
+* linguist-vendored
+*.js linguist-vendored=false
